@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Docblaster.iml" filepath="$PROJECT_DIR$/.idea/modules/Docblaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Docblaster/.idea/modules/Docblaster_main.iml" filepath="$PROJECT_DIR$/../Docblaster/.idea/modules/Docblaster_main.iml" group="Docblaster" />
+      <module fileurl="file://$PROJECT_DIR$/../Docblaster/.idea/modules/Docblaster_test.iml" filepath="$PROJECT_DIR$/../Docblaster/.idea/modules/Docblaster_test.iml" group="Docblaster" />
+    </modules>
+  </component>
+</project>
